@@ -5,7 +5,7 @@
   <a href="mailto:arda_sarpay@hotmail.com">
     <img src="https://img.shields.io/badge/Email-arda__sarpay%40hotmail.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SENIN_LINKEDIN_KULLANICI_ADIN">
+  <a href="https://www.linkedin.com/in/arda-sarpay">
     <img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
