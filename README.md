@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Selamlar, Ben Arda! 👋</h1>
+<h3 align="center">Gömülü Sistemler & IoT Geliştiricisi</h3>
 
-<!--
-**Darken35/Darken35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30px"> 
+  Şu anda <b>Akıllı Ev Sistemleri</b> üzerine çalışıyorum.
+  <br>
+  🌱 ESP32 ve IoT projeleri geliştiriyorum.
+  <br>
+  💬 Bana her zaman <b>Arduino, C++, Flutter</b> hakkında soru sorabilirsin.
+  <br>
+  📫 İletişim: <a href="mailto:seninmailin@gmail.com">seninmailin@gmail.com</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🛠️ Kullandığım Teknolojiler</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Espressif-373737?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark&hide_border=true" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark&hide_border=true" height="150" alt="languages" />
+</div>
+
+---
+
+<h3 align="center">🤝 Destek Ol & İletişime Geç</h3>
+<p align="center">
+  Projelerimi beğendiysen ve geliştirmeme katkıda bulunmak istersen bana bir kahve ısmarlayabilirsin! ☕
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/SENIN_KULLANICI_ADIN" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/SENIN_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/SENIN_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
