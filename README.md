@@ -14,9 +14,9 @@
 
 ### 👨‍💻 Hakkımda
 
-Merhabalar! Ben **Arda**. Gömülü sistemler, robotik ve yapay zeka konularında tutkulu bir mühendisim. Akademik kariyerime **Biyomedikal Mühendisliği** alanında doktora yaparak devam ediyorum.
+Merhabalar! Ben **Arda**. Gömülü sistemler, robotik ve yapay zeka konularında tutkulu bir mühendisim. Akademik kariyerime **Biyomedikal Mühendisliği** alanında **doktora** yaparak devam ediyorum.
 
-2021 yılında **TÜBİTAK BİGG** desteği ile kurduğum **Onarfa Mühendislik** çatısı altında, savunma sanayi ve endüstriyel çözümler geliştiriyorum. Şu anda **ASELSAN** için askeri standartlarda taktiksel tuş girdi sistemleri (Military-Grade Keypads) üzerine çalışmaktayım.
+2021 yılında **TÜBİTAK BİGG** desteği ile kurduğum **Onarfa Mühendislik** çatısı altında, savunma sanayi ve endüstriyel çözümler geliştiriyorum. Şu anda **ASELSAN** için askeri standartlarda taktiksel tuş girdi sistemleri (Military-Grade Keyboards) üzerine çalışmaktayım.
 
 * 🔭 **Şu an ne yapıyorum:** Askeri sınıf donanım tasarımı ve gömülü yazılım geliştirme.
 * 🎓 **Eğitim:** Elektrik-Elektronik Yüksek Mühendisi & Biyomedikal Doktora Öğrencisi.
